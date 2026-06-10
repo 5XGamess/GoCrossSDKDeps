@@ -1,0 +1,9 @@
+build/
+DerivedData/
+*.ipa
+*.dSYM.zip
+*.dSYM
+Package.resolved
+.build/
+.ruby-lsp
+.ruby-lsp/
